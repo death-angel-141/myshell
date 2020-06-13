@@ -8,3 +8,4 @@ tenacity>=6.0.0
 python-magic
 streamlink
 folderclone
+youtube-dl
